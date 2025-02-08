@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WinstonFreitas
-- 👀 I’m interested in Data Analytics for Economics and Finance.
+- 👀 I’m interested in Data Analytics for Public Policies, Economics and Finance.
 - 🌱 I’m currently learning Python and R.
 
 <!---
